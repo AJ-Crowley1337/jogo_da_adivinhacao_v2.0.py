@@ -36,3 +36,4 @@ else:
     else:
         print(f'{cores["am2"]}Você levou {palpites} tentativas mas acertou.{cores["lim"]}')
 print(f'{cores["vrl"]}=~{cores["lim"]}' * 21)
+
